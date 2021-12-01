@@ -1,0 +1,13 @@
+C:\Users\Elnur\Desktop\FIrst project\MailValidation\MailValidation\bin\Debug\netcoreapp3.1\MailValidation.exe
+C:\Users\Elnur\Desktop\FIrst project\MailValidation\MailValidation\bin\Debug\netcoreapp3.1\MailValidation.deps.json
+C:\Users\Elnur\Desktop\FIrst project\MailValidation\MailValidation\bin\Debug\netcoreapp3.1\MailValidation.runtimeconfig.json
+C:\Users\Elnur\Desktop\FIrst project\MailValidation\MailValidation\bin\Debug\netcoreapp3.1\MailValidation.runtimeconfig.dev.json
+C:\Users\Elnur\Desktop\FIrst project\MailValidation\MailValidation\bin\Debug\netcoreapp3.1\MailValidation.dll
+C:\Users\Elnur\Desktop\FIrst project\MailValidation\MailValidation\bin\Debug\netcoreapp3.1\MailValidation.pdb
+C:\Users\Elnur\Desktop\FIrst project\MailValidation\MailValidation\obj\Debug\netcoreapp3.1\MailValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elnur\Desktop\FIrst project\MailValidation\MailValidation\obj\Debug\netcoreapp3.1\MailValidation.AssemblyInfoInputs.cache
+C:\Users\Elnur\Desktop\FIrst project\MailValidation\MailValidation\obj\Debug\netcoreapp3.1\MailValidation.AssemblyInfo.cs
+C:\Users\Elnur\Desktop\FIrst project\MailValidation\MailValidation\obj\Debug\netcoreapp3.1\MailValidation.csproj.CoreCompileInputs.cache
+C:\Users\Elnur\Desktop\FIrst project\MailValidation\MailValidation\obj\Debug\netcoreapp3.1\MailValidation.dll
+C:\Users\Elnur\Desktop\FIrst project\MailValidation\MailValidation\obj\Debug\netcoreapp3.1\MailValidation.pdb
+C:\Users\Elnur\Desktop\FIrst project\MailValidation\MailValidation\obj\Debug\netcoreapp3.1\MailValidation.genruntimeconfig.cache
